@@ -1,2 +1,16 @@
-# Wet_market_scan
-Each day, the Collector visits stalls using the app. They open the scanner, scan the stall’s QR code, and the system finds the stall in the database. Payment is marked as paid for the day, with the amount filled in automatically. The Collector can adjust the amount if needed and add notes for reference.
+# wet_market_scan_paid
+
+A new Flutter project.
+
+## Getting Started
+
+This project is a starting point for a Flutter application.
+
+A few resources to get you started if this is your first Flutter project:
+
+- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
+- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+
+For help getting started with Flutter development, view the
+[online documentation](https://docs.flutter.dev/), which offers tutorials,
+samples, guidance on mobile development, and a full API reference.
